@@ -4,5 +4,4 @@
 - 😄 Pronomes: Ele/Dele
 
   ![Tharik GitHub stats](https://github-readme-stats.vercel.app/api?username=tharikls&show_icons=true&theme=synthwave)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharikls&layout=donut)](https://github.com/TharikLS/github-readme-stats)
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharikls&layout=compact&theme=synthwave)  
