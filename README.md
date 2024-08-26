@@ -2,7 +2,7 @@
 - 🌱 Estudando Desenvolvimento 
 - 📫 contate-me no email: tharik0307@gmail.com
 - 😄 Pronomes: Ele/Dele
-
+ <a href="https://github.com/TharikLS">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tharikls&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharikls&layout=compact&theme=gruvbox">
